@@ -1,2 +1,2 @@
-# azure-deprecation-notifications
-Notifications about Azure services &amp; features being deprecated
+# Azure Deprecation Notifications
+Trying to keep up with deprecation of Azure services & features? This repo aggregates all of them.
