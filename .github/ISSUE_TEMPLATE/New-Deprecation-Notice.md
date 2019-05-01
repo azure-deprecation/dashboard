@@ -1,7 +1,8 @@
 ---
 name: New Deprecation Notice
 about: Reports a new deprecation in Microsoft Azure
-labels: impact:unknown, unverified
+labels: impact:unknown, unverified, area:unknown, services:unknown
+assignees: tomkerkhove
 ---
 
 _Information about the deprecation_
