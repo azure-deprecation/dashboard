@@ -9,7 +9,9 @@ _Information about the deprecation_
 
 **Deadline:** _Deadline date_
 **Impacted Services:** _List of impacted services_
-**More information:** _Link to official deprecation announcement_
+**More information:**
+- _Link to official deprecation announcement_
+- _Link to official deprecation announcement_
 
 ### Notice
 
