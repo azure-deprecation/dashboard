@@ -24,3 +24,7 @@ _Information about the deprecation_
 ### Required Action
 
 > _Official information about the guidance on required actions to take, if any_
+
+### Contact
+
+> _Information how to contact a product group in case of migration questions_
