@@ -28,3 +28,7 @@ _Information about the deprecation_
 ### Contact
 
 > _Information how to contact a product group in case of migration questions_
+
+### More information
+
+> _Information that can be useful regarding this deprecation_
