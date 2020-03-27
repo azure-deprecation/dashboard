@@ -6,3 +6,9 @@ We provide a dashboard with deprecation notices concerning Microsoft Azure servi
 Every notice is annotated with the impact, what services are affected and what area.
 
 You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflife).
+
+## Supporters
+
+Thanks for those who are supporting us via [GitHub Sponsors](https://github.com/sponsors/tomkerkhove/).
+
+[![Sam Vanhoutte](./media/supporters/samvanhoutte.png)](https://github.com/samvanhoutte)
