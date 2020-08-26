@@ -7,6 +7,10 @@ Every notice is annotated with the impact, what services are affected and what a
 
 You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflife).
 
+## Stay ahead of deprecations
+
+- [Use Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/) to improve your Azure resources, for example, to detect [unsupported Azure Kubernetes Service versions](https://docs.microsoft.com/en-us/azure/advisor/advisor-performance-recommendations#use-a-supported-kubernetes-version) 
+
 ## Supporters
 
 Thanks for those who are supporting us via [GitHub Sponsors](https://github.com/sponsors/tomkerkhove/).
