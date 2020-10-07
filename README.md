@@ -20,4 +20,5 @@ You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflif
 
 Thanks for those who are supporting us via [GitHub Sponsors](https://github.com/sponsors/tomkerkhove/).
 
+[![Karl Ots](./media/supporters/karlgots.jpg)](https://github.com/karlgots)
 [![Sam Vanhoutte](./media/supporters/samvanhoutte.png)](https://github.com/samvanhoutte)
