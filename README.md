@@ -16,6 +16,11 @@ You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflif
 
 - [Use Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/) to improve your Azure resources, for example, to detect [unsupported Azure Kubernetes Service versions](https://docs.microsoft.com/en-us/azure/advisor/advisor-performance-recommendations#use-a-supported-kubernetes-version) 
 
+## Learn More
+
+- [Announcing Azure Deprecation Notices](https://blog.tomkerkhove.be/2020/09/25/announcing-azure-deprecation-notices/) 
+- [Announcing Deprecation Notice Timeline in Azure Deprecation Notices](https://blog.tomkerkhove.be/2020/10/26/announcing-azure-deprecation-notice-timeline/) 
+
 ## Supporters
 
 Thanks for those who are supporting us via [GitHub Sponsors](https://github.com/sponsors/tomkerkhove/).
