@@ -26,6 +26,8 @@ You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflif
 Thanks for those who are supporting us via [GitHub Sponsors](https://github.com/sponsors/tomkerkhove/).
 
 [![Alex Mang](./media/supporters/iamalexmang.jpg)](https://github.com/iamalexmang)
+[![Chris Reddington](./media/supporters/chrisreddington.png)](https://github.com/chrisreddington)
 [![Karl Ots](./media/supporters/karlgots.jpg)](https://github.com/karlgots)
+[![Lovelace Engineering](./media/supporters/LovelaceEngineering.png)](https://github.com/LovelaceEngineering)
 [![Mike Martin](./media/supporters/t2kx.jpg)](https://github.com/t2kx)
 [![Your Azure Coach](./media/supporters/your-azure-coach.png)](https://github.com/your-azure-coach)
