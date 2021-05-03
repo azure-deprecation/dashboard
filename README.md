@@ -30,4 +30,5 @@ Thanks for those who are supporting us via [GitHub Sponsors](https://github.com/
 [![Karl Ots](./media/supporters/karlgots.jpg)](https://github.com/karlgots)
 [![Lovelace Engineering](./media/supporters/LovelaceEngineering.png)](https://github.com/LovelaceEngineering)
 [![Mike Martin](./media/supporters/t2kx.jpg)](https://github.com/t2kx)
+[![Morten Christensen](./media/supporters/sitereactor.jpg)](https://github.com/sitereactor)
 [![Your Azure Coach](./media/supporters/your-azure-coach.png)](https://github.com/your-azure-coach)
