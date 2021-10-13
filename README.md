@@ -9,6 +9,7 @@ You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflif
 
 ## Want to be notified?
 
+- Sign up for our monthly newsletter ([sign up form](http://eepurl.com/hKHWtf))
 - Get notified with CloudEvents ([sign up form](https://forms.gle/aVsFpnz1dtnAbWuSA))
   - *Endpoints must be capable of [performing Azure Event Grid validation handshakes](https://docs.microsoft.com/en-us/azure/event-grid/webhook-event-delivery#endpoint-validation-with-event-grid-events)*
 
