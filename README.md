@@ -7,6 +7,8 @@ Every notice is annotated with the impact, what services are affected and what a
 
 You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflife).
 
+> :warning: Azure Deprecation Notices is an unofficial account for deprecation notifications in Microsoft Azure and is not affiliated with Microsoft.
+
 ## Want to be notified?
 
 - Sign up for our monthly newsletter ([sign up form](http://eepurl.com/hKHWtf))
