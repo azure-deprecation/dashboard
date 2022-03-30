@@ -13,6 +13,15 @@ You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflif
 - Get notified with CloudEvents ([sign up form](https://forms.gle/aVsFpnz1dtnAbWuSA))
   - *Endpoints must be capable of [performing Azure Event Grid validation handshakes](https://docs.microsoft.com/en-us/azure/event-grid/webhook-event-delivery#endpoint-validation-with-event-grid-events)*
 
+## Newsletters 🗞️
+
+Here is an overview of our past newsletters
+- March 2022 ([view newsletter](https://mailchi.mp/4ba6665a753a/p23ketl4v9))
+- February 2022 ([view newsletter](https://mailchi.mp/4c479ab5930b/tnwquyqktb))
+- January 2022 ([view newsletter](https://mailchi.mp/9543c9e06fc6/1wmnot8zj4))
+- December 2021 ([view newsletter](https://mailchi.mp/1d80f3637b31/nrr3tq5erl))
+- November 2021 ([view newsletter](https://mailchi.mp/ea445476c349/kidzivetgq))
+
 ## Stay ahead of deprecations
 
 - [Use Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/) to improve your Azure resources, for example, to detect [unsupported Azure Kubernetes Service versions](https://docs.microsoft.com/en-us/azure/advisor/advisor-performance-recommendations#use-a-supported-kubernetes-version) 
