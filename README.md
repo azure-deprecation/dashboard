@@ -5,7 +5,7 @@ Trying to keep up with deprecation of Azure services & features? Don't worry, we
 We provide a dashboard with deprecation notices concerning Microsoft Azure services, data centers _(aka region)_, APIs and SDKs.
 Every notice is annotated with the impact, what services are affected and what area.
 
-You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflife).
+You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflife) or check [our newsletter archive](https://us2.campaign-archive.com/home/?u=bab91a77fe7f2afd181cb4808&id=b0f0db5931).
 
 > :warning: Azure Deprecation Notices is an unofficial account for deprecation notifications in Microsoft Azure and is not affiliated with Microsoft.
 
@@ -18,11 +18,14 @@ You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflif
 ## Newsletters 🗞️
 
 Here is an overview of our past newsletters
+- April 2022 ([view newsletter](https://mailchi.mp/0f24bcf2efe8/6g555lp8oc))
 - March 2022 ([view newsletter](https://mailchi.mp/4ba6665a753a/p23ketl4v9))
 - February 2022 ([view newsletter](https://mailchi.mp/4c479ab5930b/tnwquyqktb))
 - January 2022 ([view newsletter](https://mailchi.mp/9543c9e06fc6/1wmnot8zj4))
 - December 2021 ([view newsletter](https://mailchi.mp/1d80f3637b31/nrr3tq5erl))
 - November 2021 ([view newsletter](https://mailchi.mp/ea445476c349/kidzivetgq))
+
+You can find our full archive [here](https://us2.campaign-archive.com/home/?u=bab91a77fe7f2afd181cb4808&id=b0f0db5931).
 
 ## Stay ahead of deprecations
 
