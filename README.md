@@ -18,6 +18,7 @@ You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflif
 ## Newsletters 🗞️
 
 Here is an overview of our past newsletters
+- November 2022 ([view newsletter](https://us2.campaign-archive.com/?u=bab91a77fe7f2afd181cb4808&id=c9a03d0b21))
 - October 2022 ([view newsletter](https://mailchi.mp/8283d29a3839/1xy1h6jisq))
 - September 2022 ([view newsletter](https://mailchi.mp/80a3d4d2d3b6/4cv5eiyht2))
 - August 2022 ([view newsletter](https://mailchi.mp/f50512d112d5/ejuw8fyo1e))
