@@ -18,6 +18,7 @@ You can follow us on Twitter [@AzureEndOfLife](https://twitter.com/azureendoflif
 ## Newsletters 🗞️
 
 Here is an overview of our past newsletters
+- March 2023 ([view newsletter](https://mailchi.mp/ddff5ea7aac2/azure-deprecation-notices-monthly-summary-march-2023))
 - February 2023 ([view newsletter](https://mailchi.mp/8cae7142523a/azure-deprecation-notices-monthly-summary-february-2023?e=e5df8d8e75))
 - January 2023 ([view newsletter](https://mailchi.mp/ea49578ebd3f/azure-deprecation-notices-monthly-summary-january-2023))
 - December 2022 ([view newsletter](https://mailchi.mp/b398cb28c4a2/azure-deprecation-notices-monthly-summary-december-2022))
